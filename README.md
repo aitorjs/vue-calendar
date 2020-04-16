@@ -1,4 +1,4 @@
-# vue-dolar
+# vue-calendar
 
 ## Project setup
 ```
